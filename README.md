@@ -6,6 +6,6 @@ Parallel program grouping and sorting algorithms, where data structures and para
 
 compare.py文件供检查运行结果是否正确。
 
-程序需在linux系统中运行，Windows系统可安装docker，教程见https://www.hangge.com/blog/cache/detail_3898.html。
+程序需在linux系统中运行，Windows系统可安装docker，教程见https://www.hangge.com/blog/cache/detail_3898.html
 
 把dockerfile添加到目录的/devcontainer文件夹中即可使用vscode在容器中重新打开文件夹。
